@@ -97,7 +97,7 @@ agentic-chatbot/
 ```
 
 ---
-
+ 
 ## ⚙️ Environment Variables
 
 | Variable | Description |
