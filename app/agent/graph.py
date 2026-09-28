@@ -90,4 +90,4 @@ def get_agent_graph():
 
 def run_agent(messages):
     graph = get_agent_graph()
-    return graph.invoke({'messages': messages})
+    return graph.invoke({'messages': messages}) 
